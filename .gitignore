@@ -1,0 +1,8 @@
+/logs/
+.env.dev
+.env.prod
+.idea
+ark_file
+*/logs
+
+__pycache__
